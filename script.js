@@ -1,4 +1,4 @@
-let search = document.querySelector(".search");
+let search = document.querySelector(".input");
 let btn = document.querySelector(".btn");
 
 btn.addEventListener("click", show);

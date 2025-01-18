@@ -6,11 +6,11 @@ body{
     height: 100vh;
     
 }
-.input{
+.search{
     background-color: white;
 }
 
-.search{
+.input{
     padding: 10px;   
     font-size: x-large;
     border: 0;
