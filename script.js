@@ -8,7 +8,7 @@ btn.addEventListener("click", show);
 
 function show() {
     if (search) {
-        search.classList.toggle("hide"); // Remove the dot before "hide"
+        search.classList.toggle("active"); // Remove the dot before "hide"
         search.focus();
     }
 }
