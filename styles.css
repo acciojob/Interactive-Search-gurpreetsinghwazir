@@ -10,7 +10,7 @@ body{
     background-color: white;
 }
 
-.input{
+.active{
     padding: 10px;   
     font-size: x-large;
     border: 0;
@@ -24,6 +24,6 @@ body{
     border: 3px solid white;
 }
  
-.active{
+.hide{
 display: none;
 }
