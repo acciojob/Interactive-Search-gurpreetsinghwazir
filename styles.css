@@ -16,7 +16,12 @@ body{
     border: 0;
     outline : none;
 }
-
+.input{
+    padding: 10px;   
+    font-size: x-large;
+    border: 0;
+    outline : none;
+}
 
 .btn{
     font-size: x-large;
